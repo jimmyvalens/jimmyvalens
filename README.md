@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jimmy Valens
 
-<!--
-**jimmyvalens/jimmyvalens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Web  
+💻 Apasionado por el desarrollo web fullstack  
+🚀 Actualmente aprendiendo: PHP, JavaScript moderno y React  
+🔨 En desarrollo: [Tienda web (PHP + MySQL)](https://github.com/jimmyvalens/tienda-web) ← *proyecto en construcción*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologías que estoy usando
+
+- HTML, CSS, Bootstrap
+- JavaScript (ES6+), DOM, Fetch API
+- PHP con PDO y MySQL
+- Git y GitHub
+- Próximamente: Laravel y React
+
+---
+
+## 📚 Cursos que estoy completando
+
+- Desarrollo Web Completo (Juan Pablo de la Torre)
+- JavaScript Moderno
+- Angular y Flutter (Fernando Herrera)
+
+---
+
+## 📫 Puedes contactarme:
+
+- LinkedIn (próximamente)
