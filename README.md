@@ -22,7 +22,7 @@
 
 ### 🧪 Proyectos destacados
 
-- 🔨 [`tienda-web`](https://github.com/jimmyvalens/tienda-web) (en desarrollo): CRUD completo de productos con PHP + MySQL.
+- 🔨 [`tienda_web`](https://github.com/jimmyvalens/tienda_web) (en desarrollo): CRUD completo de productos con PHP + MySQL.
 - 🧰 [`Git-Pruebas`](https://github.com/jimmyvalens/Git-Pruebas): comandos y flujo de trabajo con Git.
 - 📚 [`FullstackOpen`](https://github.com/jimmyvalens/FullstackOpen): ejercicios del curso FullstackOpen (React + Node.js).
 
