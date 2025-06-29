@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Jimmy Valens</h1>
 
 <p align="center">
-🎓 Estudiante de Desarrollo de Aplicaciones Web  
+🎓 Estudiante del Ciclo Superior en Desarrollo de Aplicaciones Web  
 💻 Apasionado por el desarrollo fullstack  
 🚀 Actualmente aprendiendo: PHP, JavaScript moderno y React  
 </p>
