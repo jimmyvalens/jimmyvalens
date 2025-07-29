@@ -39,7 +39,7 @@
 
 ### 📫 Contacto
 
-💼 Próximamente: perfil de [LinkedIn](https://www.linkedin.com/in/jimmy-valens-17a106371/)  
+💼 Mi perfil en [LinkedIn](https://www.linkedin.com/in/jimmy-valens-17a106371/)  
 📬 Puedes escribirme por GitHub Discussions o Issues en cualquier repo.
 
 ---
